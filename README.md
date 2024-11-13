@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: LOKESH REDDY A</H3>
-<H3>ENTER YOUR REGISTER NO. 212223040104</H3>
-<H3>EX. NO.06</H3>
-<H3>DATE:12.11.2024</H3>
+<H3>ENTER YOUR REGISTER NO: 212223040104</H3>
+<H3>EX. NO: 06</H3>
+<H3>DATE: 12.11.2024</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -60,7 +60,8 @@ print("\nClassification Report:")
 print(classification_rep)
 ```
 
-<H3>Output:</H3>
+## Output:
+![Screenshot 2024-11-12 114108](https://github.com/user-attachments/assets/ff24c6eb-7844-43b0-8578-e537b8eb0ea3)
 
 
 <H3>Results:</H3>
